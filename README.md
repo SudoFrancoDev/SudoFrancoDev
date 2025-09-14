@@ -19,10 +19,13 @@ $ cat about-me.txt
 🌱 I like to learn everything related to my engineering.
 </pre>
 
+<pre>
 - **Languages**:
    $ ls skills/
   ├── Programming/
   │   ├── ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+</pre>
+
 
 
 

@@ -15,5 +15,7 @@ santiago-franco
 
 $ cat about-me.txt
 🏫 I am a systems engineering student at the University of San Buenaventura.
+🧠 I study data science and artificial intelligence at Datacamp
+🌱 I like to learn everything related to my engineering.
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>

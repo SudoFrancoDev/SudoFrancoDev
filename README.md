@@ -20,10 +20,20 @@ $ cat about-me.txt
 </pre>
 
 <pre>
-- **Languages**:
-   $ ls skills/
-  ├── Programming/
-  │   ├── ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+bash
+$ ls skills/
+├── Programming/
+│   └── Python
+├── Tools/
+│   ├── Scikit-learn
+│   ├── Matplotlib
+│   ├── Seaborn
+│   └── Pandas
+├── Operating_system/
+│   ├── Windows_Server
+│   └── Linux
+└── Data/
+    └── SQL
 </pre>
 
 
